@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/scss/main.scss"],"names":[],"mappings":"AAEA;EACE,YAHY;CAIb","file":"main.css","sourcesContent":["$primary: #311 !default;\r\n\r\na {\r\n  color: $primary;\r\n}\r\n"]}
